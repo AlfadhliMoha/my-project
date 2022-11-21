@@ -1,0 +1,183 @@
+body{
+    background: rgb(2, 2, 2);
+    margin: 1%;
+    width: 100%;
+    height: 50%;
+    
+    
+
+}
+.about{
+    background: rgb(36, 30, 30);
+}
+.about nav{
+    margin: 0%;
+    padding: 0px;
+}
+
+.nav{
+    text-align: center;
+    margin: 0px;
+    padding: 40px;
+    
+}
+li {
+    display: inline-block;
+    padding-right: 20px;
+    font: bold;
+    color: white;
+    border: 10px;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}    
+    
+li a:hover{
+    display: block;
+  
+  
+}
+.content{
+    flex-grow: 1;
+    padding: 4%;
+    display:flex ;
+    align-items: center;
+    justify-content:space-between;
+}
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+span{
+    color:red;
+    font-size: 30px;
+    
+
+}
+.span2{
+    color: aqua;
+    text-decoration-line: inherit;
+    
+}
+.h22{
+    text-align: justify;
+    margin-left: 35px;
+    color: white;
+
+}
+.btn{
+    background-color:greenyellow;
+    color:rgb(19, 24, 20);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 30px;
+    transition: 0.4s;
+    border: 2px;
+
+}
+
+}
+.about img{
+    width: 200;
+    height: 200;
+    border-radius:50% ;
+    background-color: rgb(35, 35, 119);
+    margin-right: 40%;
+    padding: 3px;
+    border: 1px solid rgb(247, 138, 138);
+    box-shadow: 10px 10px 10px 10px rgb(32, 29, 29);
+    transition: 0.7.5s ease;
+    
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+    
+
+}
+.aboutme{
+    background-color: var(--bgcolor-2);
+    padding: 2rem var(--padding);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    
+    }
+    .about img{
+        margin-left:50%;
+        margin-top: 50%;
+    }
+    .nav{
+        padding-top: 15px;
+    
+    }
+    .im{
+        text-align: left;
+        margin: 300px;
+        margin-top: 300px;
+        
+    }
+    .hi{
+    text-align: justify;
+    ;
+}
+    .dd{
+    text-align:justify;
+    color:white;
+    width: 200px;
+    height: 150px;
+    padding: 30px;
+    margin: 0% 0% 0% 40%;
+} 
+  .pp{
+      box-sizing: border-box;
+      align-items: center;
+      width:100%;
+      margin-top: 30%;
+      font-size: 20;
+      color: rgb(7, 27, 10);
+  }
+  .h11{
+      text-align: left;
+      width: 35%;
+      display: inline;
+  }
+  .iml{
+      margin-left: 50%;
+      margin-top: 0%;
+      width: 35%;
+  }
+   img{
+      margin-left: 10%;
+      margin-top: 10%;
+      
+    
+  }
+  .pp{
+      margin-left: 40%;
+      
+      width: 45%;
+      margin-top: 0px;
+      
+  }
+  .ppp{
+      font-size: 80%;
+      border:0px solid;
+      font-family: fantasy;
+      
+    
+     
+  }
+  .iml{
+      margin: 70px 60px 30px 40px;
+  }
+  

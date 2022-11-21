@@ -1,0 +1,100 @@
+body{
+    background: rgb(2, 2, 2);
+    margin: 10px 10px 10px 1px;
+    width: 100%;
+    height: 100%;    
+}
+.nav{
+    text-align: center;
+    top: 10px;
+    margin: 5px;
+}
+li {
+    display: inline-block;
+    padding-right: 20px;
+    font: bold;
+    color: white;
+    border: 10px;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}    
+    
+li a:hover{
+    
+    display: block;
+  
+  
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    font-size: 21;
+}
+box:hover{
+
+}
+.card{
+width:300;
+text-align: center;
+background-color:#ccc;
+border-radius: 30px;
+padding: 1.3rem 2rem;
+margin-right: 33px;
+transition: 0.4s;
+}
+.Dv{
+width: 40px;
+margin-bottom: 45px;
+padding: 0px;
+}
+h5{
+    font-size: 20px;
+    margin: 10px;
+}
+.services{
+    padding: 5rem var(--padding);
+}
+.text-center{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.bar{
+    margin-bottom: 13px;
+}
+
+.services .card:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.our{
+    margin: 15px;
+    font-size: 30px;
+    margin-top: 50px;
+    color: white;
+}
+span{
+    color: red;
+    font-size: 30px;
+}
+
+html {
+    font-size: 16px;
+    color: var(--lightcolor);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;ssss
+    color: var(--lightcolor);
+}
